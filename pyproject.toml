@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "centroid-distance-sampler"
+version = "0.1.0"
+description = "Centroid-distance based numerosity reduction for clustered datasets."
+readme = "README.md"
+requires-python = ">=3.9"
+# Lower bounds are the first releases with Python 3.9 wheels (late 2020).
+# The suite is also tested against the last releases supporting 3.9:
+# numpy 2.0.2, scipy 1.13.1, scikit-learn 1.6.1.
+dependencies = [
+    "numpy>=1.19.3",
+    "scipy>=1.5.4",
+    "scikit-learn>=0.24",
+]
+
+[project.optional-dependencies]
+test = ["pytest", "pandas"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["src", "tests"]
+pythonpath = ["src"]
+addopts = "--doctest-modules"

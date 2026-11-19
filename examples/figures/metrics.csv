@@ -1,0 +1,121 @@
+dataset,method,fraction,extent,mean_gap,max_gap
+Isotropic blobs,Random,0.01,17.133,0.6464,2.8331
+Isotropic blobs,Random,0.02,27.5276,0.4712,2.4326
+Isotropic blobs,Random,0.05,44.9886,0.2992,1.9637
+Isotropic blobs,Random,0.1,57.9136,0.2037,1.6516
+Isotropic blobs,Random,0.2,71.0318,0.1312,1.4225
+Isotropic blobs,Random,0.5,87.6604,0.0529,1.0853
+Isotropic blobs,"Euclidean, linear",0.01,25.2359,0.6818,2.6539
+Isotropic blobs,"Euclidean, linear",0.02,40.4486,0.4856,2.1625
+Isotropic blobs,"Euclidean, linear",0.05,59.724,0.3006,1.6512
+Isotropic blobs,"Euclidean, linear",0.1,73.7633,0.2031,1.3946
+Isotropic blobs,"Euclidean, linear",0.2,85.5325,0.1263,1.1443
+Isotropic blobs,"Euclidean, linear",0.5,97.7237,0.0463,0.6268
+Isotropic blobs,"Euclidean, squared",0.01,33.5633,0.7748,2.5611
+Isotropic blobs,"Euclidean, squared",0.02,51.8727,0.5426,1.9523
+Isotropic blobs,"Euclidean, squared",0.05,72.1105,0.3418,1.4707
+Isotropic blobs,"Euclidean, squared",0.1,84.9738,0.2341,1.1888
+Isotropic blobs,"Euclidean, squared",0.2,95.054,0.1463,0.7892
+Isotropic blobs,"Euclidean, squared",0.5,99.974,0.0541,0.3736
+Isotropic blobs,"Mahalanobis, linear",0.01,25.3082,0.6842,2.6644
+Isotropic blobs,"Mahalanobis, linear",0.02,40.3215,0.4856,2.1695
+Isotropic blobs,"Mahalanobis, linear",0.05,59.606,0.301,1.6578
+Isotropic blobs,"Mahalanobis, linear",0.1,73.5819,0.2031,1.406
+Isotropic blobs,"Mahalanobis, linear",0.2,85.2915,0.1263,1.1528
+Isotropic blobs,"Mahalanobis, linear",0.5,97.8245,0.0462,0.6169
+Anisotropic blobs,Random,0.01,17.133,0.3657,2.4547
+Anisotropic blobs,Random,0.02,27.5276,0.2464,2.0187
+Anisotropic blobs,Random,0.05,44.9886,0.1486,1.5204
+Anisotropic blobs,Random,0.1,57.9136,0.0996,1.1782
+Anisotropic blobs,Random,0.2,71.0318,0.063,0.8935
+Anisotropic blobs,Random,0.5,87.6604,0.0255,0.5904
+Anisotropic blobs,"Euclidean, linear",0.01,24.3142,0.3967,1.8919
+Anisotropic blobs,"Euclidean, linear",0.02,38.0817,0.262,1.4252
+Anisotropic blobs,"Euclidean, linear",0.05,56.7431,0.1587,1.0022
+Anisotropic blobs,"Euclidean, linear",0.1,69.859,0.1055,0.7453
+Anisotropic blobs,"Euclidean, linear",0.2,82.4191,0.0672,0.5596
+Anisotropic blobs,"Euclidean, linear",0.5,95.6815,0.0254,0.3158
+Anisotropic blobs,"Euclidean, squared",0.01,29.8452,0.5352,1.5253
+Anisotropic blobs,"Euclidean, squared",0.02,44.5993,0.3563,1.1711
+Anisotropic blobs,"Euclidean, squared",0.05,62.7661,0.2194,0.8474
+Anisotropic blobs,"Euclidean, squared",0.1,76.0306,0.153,0.6786
+Anisotropic blobs,"Euclidean, squared",0.2,86.6898,0.0966,0.5166
+Anisotropic blobs,"Euclidean, squared",0.5,97.086,0.0363,0.3326
+Anisotropic blobs,"Mahalanobis, linear",0.01,25.3082,0.3715,2.0951
+Anisotropic blobs,"Mahalanobis, linear",0.02,40.3215,0.2527,1.6296
+Anisotropic blobs,"Mahalanobis, linear",0.05,59.606,0.1482,1.1504
+Anisotropic blobs,"Mahalanobis, linear",0.1,73.5819,0.0985,0.8628
+Anisotropic blobs,"Mahalanobis, linear",0.2,85.2915,0.061,0.6406
+Anisotropic blobs,"Mahalanobis, linear",0.5,97.8245,0.0224,0.2919
+Unequal variance blobs,Random,0.01,17.6477,0.8457,4.027
+Unequal variance blobs,Random,0.02,28.1751,0.6151,3.3414
+Unequal variance blobs,Random,0.05,45.6784,0.389,2.7077
+Unequal variance blobs,Random,0.1,58.4249,0.2635,2.3327
+Unequal variance blobs,Random,0.2,70.5953,0.1691,1.8669
+Unequal variance blobs,Random,0.5,87.0847,0.0685,1.3691
+Unequal variance blobs,"Euclidean, linear",0.01,22.5201,0.8651,3.5406
+Unequal variance blobs,"Euclidean, linear",0.02,36.8021,0.6019,2.7849
+Unequal variance blobs,"Euclidean, linear",0.05,56.0759,0.3717,2.0736
+Unequal variance blobs,"Euclidean, linear",0.1,69.478,0.2429,1.6713
+Unequal variance blobs,"Euclidean, linear",0.2,81.9393,0.1446,1.1955
+Unequal variance blobs,"Euclidean, linear",0.5,95.2448,0.0463,0.5637
+Unequal variance blobs,"Euclidean, squared",0.01,23.6527,1.1781,3.7834
+Unequal variance blobs,"Euclidean, squared",0.02,36.0949,0.8543,2.8505
+Unequal variance blobs,"Euclidean, squared",0.05,55.0259,0.5222,1.8345
+Unequal variance blobs,"Euclidean, squared",0.1,68.8893,0.3288,1.331
+Unequal variance blobs,"Euclidean, squared",0.2,83.2315,0.1926,0.9385
+Unequal variance blobs,"Euclidean, squared",0.5,97.1854,0.0558,0.4616
+Unequal variance blobs,"Mahalanobis, linear",0.01,26.0888,0.8895,3.5915
+Unequal variance blobs,"Mahalanobis, linear",0.02,41.0697,0.6321,2.9603
+Unequal variance blobs,"Mahalanobis, linear",0.05,60.0822,0.3918,2.2507
+Unequal variance blobs,"Mahalanobis, linear",0.1,72.9065,0.2647,1.8087
+Unequal variance blobs,"Mahalanobis, linear",0.2,85.1576,0.164,1.3825
+Unequal variance blobs,"Mahalanobis, linear",0.5,97.6055,0.0611,0.7383
+Moons,Random,0.01,56.6303,0.1218,0.4258
+Moons,Random,0.02,68.9608,0.0795,0.2897
+Moons,Random,0.05,80.2742,0.0458,0.1854
+Moons,Random,0.1,86.3818,0.0306,0.1516
+Moons,Random,0.2,91.9258,0.0195,0.1199
+Moons,Random,0.5,97.0875,0.0078,0.0864
+Moons,"Euclidean, linear",0.01,62.6503,0.1305,0.4245
+Moons,"Euclidean, linear",0.02,72.7709,0.0821,0.2811
+Moons,"Euclidean, linear",0.05,82.7772,0.0479,0.1845
+Moons,"Euclidean, linear",0.1,89.0046,0.0322,0.1462
+Moons,"Euclidean, linear",0.2,93.4017,0.0205,0.1183
+Moons,"Euclidean, linear",0.5,97.8742,0.0082,0.0829
+Moons,"Euclidean, squared",0.01,62.8296,0.1635,0.5358
+Moons,"Euclidean, squared",0.02,74.0221,0.1045,0.3779
+Moons,"Euclidean, squared",0.05,83.9777,0.0561,0.224
+Moons,"Euclidean, squared",0.1,89.8124,0.0372,0.1725
+Moons,"Euclidean, squared",0.2,93.9207,0.0239,0.1371
+Moons,"Euclidean, squared",0.5,98.3015,0.0096,0.0949
+Moons,"Mahalanobis, linear",0.01,63.6862,0.1261,0.4057
+Moons,"Mahalanobis, linear",0.02,73.4973,0.0809,0.2778
+Moons,"Mahalanobis, linear",0.05,83.8262,0.0469,0.1771
+Moons,"Mahalanobis, linear",0.1,89.6143,0.0313,0.1411
+Moons,"Mahalanobis, linear",0.2,93.5982,0.02,0.1159
+Moons,"Mahalanobis, linear",0.5,97.9884,0.008,0.0827
+Concentric circles,Random,0.01,69.8207,0.1575,0.5076
+Concentric circles,Random,0.02,78.8932,0.0943,0.3223
+Concentric circles,Random,0.05,86.1001,0.0508,0.1823
+Concentric circles,Random,0.1,89.8239,0.033,0.1342
+Concentric circles,Random,0.2,93.1727,0.0208,0.1033
+Concentric circles,Random,0.5,97.5019,0.0083,0.0801
+Concentric circles,"Euclidean, linear",0.01,67.1178,0.1628,0.5191
+Concentric circles,"Euclidean, linear",0.02,78.2035,0.0919,0.3079
+Concentric circles,"Euclidean, linear",0.05,85.801,0.0516,0.1846
+Concentric circles,"Euclidean, linear",0.1,89.7234,0.0336,0.1333
+Concentric circles,"Euclidean, linear",0.2,93.2122,0.0209,0.1052
+Concentric circles,"Euclidean, linear",0.5,97.5177,0.0082,0.081
+Concentric circles,"Euclidean, squared",0.01,57.5219,0.1999,0.5954
+Concentric circles,"Euclidean, squared",0.02,74.7891,0.1064,0.3496
+Concentric circles,"Euclidean, squared",0.05,84.4039,0.0579,0.198
+Concentric circles,"Euclidean, squared",0.1,89.0189,0.0374,0.1412
+Concentric circles,"Euclidean, squared",0.2,92.8252,0.0231,0.1091
+Concentric circles,"Euclidean, squared",0.5,97.4153,0.009,0.0805
+Concentric circles,"Mahalanobis, linear",0.01,69.9103,0.159,0.5128
+Concentric circles,"Mahalanobis, linear",0.02,79.4788,0.0951,0.3276
+Concentric circles,"Mahalanobis, linear",0.05,86.5374,0.0508,0.1809
+Concentric circles,"Mahalanobis, linear",0.1,90.4806,0.033,0.1341
+Concentric circles,"Mahalanobis, linear",0.2,93.7373,0.0208,0.1037
+Concentric circles,"Mahalanobis, linear",0.5,97.9538,0.0083,0.0797
